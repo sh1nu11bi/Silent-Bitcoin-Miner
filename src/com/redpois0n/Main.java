@@ -1,7 +1,5 @@
 package com.redpois0n;
 
-import java.io.File;
-
 import com.diablominer.DiabloMiner.DiabloMiner;
 
 public class Main {
